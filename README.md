@@ -32,6 +32,9 @@ L'objectif était de mettre à jour le site d'une association de skate en intég
 
 ## Aperçu
 
+![Page d'accueil Riding Cities](./images/riding.png)
+
+
 Le projet comprend :
 
 * Une section "Les membres fondateurs"
