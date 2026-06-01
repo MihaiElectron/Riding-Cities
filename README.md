@@ -32,7 +32,7 @@ L'objectif était de mettre à jour le site d'une association de skate en intég
 
 ## Aperçu
 
-![Page d'accueil Riding Cities](./images/riding.png)
+![Page d'accueil Riding Cities](./images/riding-ss.png)
 
 
 Le projet comprend :
